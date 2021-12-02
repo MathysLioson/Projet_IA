@@ -15,3 +15,7 @@ Quantité:
 Nous disposons d'une base de données composée d'une centaine de fleurs différentes. Chacune des fleurs à une grande quantité d'image de type jpg.
 
 Qualité:
+
+Les données sont diverses: angles de vue et couleurs variés pour chaque espèce, distance de la prise variable, états d'éclosion différents. Cela va
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?0D0FEA84E408886D06144C2BCE6E6486C712
