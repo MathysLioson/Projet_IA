@@ -20,3 +20,9 @@ Qualité:
 Les données sont diverses: angles de vue et couleurs variées pour chaque espèce, distance de la prise variable, états d'éclosion différents.
 Sur certaines images les fleurs ne sont pas les éléments centraux, elles ne sont visibles que sur une partie. Cela rajoute un certain défi pour l'IA.
 
+-sklearn
+-tensorFlow
+-numpy
+-os
+-cv2
+-matplotlib
